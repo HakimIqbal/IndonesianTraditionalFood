@@ -39,12 +39,12 @@ CREATE TABLE `categories` (
 --
 
 INSERT INTO `categories` (`categorieId`, `categorieName`, `categorieDesc`, `categorieCreateDate`) VALUES
-(1, 'Masakan Indonesia', 'Menyenangkan bagi pecinta makanan! Pilih dari beragam makanan lezat kami. \r\n\r\n', '2023-11-10 18:16:28'),
-(2, 'Minuman Indonesia', 'Pilih minuman favorit Anda!. \r\n\r\n', '2023-11-09 18:17:14'),
-(3, 'Sambal Indonesia', 'Meningkatkan pengalaman rasa secara keseluruhan dengan profilnya yang berani dan pedas. \r\n\r\n', '2023-11-10 18:17:43'),
-(4, 'Jajanan Indonesia', 'Hadir dalam beragam warna, tekstur, dan rasa, menawarkan beragam pilihan untuk eksplorasi kuliner. \r\n\r\n', '2023-11-10 18:19:10'),
-(5, 'Jamu Tradisional', 'Kombinasi berbagai bahan alami, seperti akar, herba, rempah-rempah, dan buah-buahan, untuk mengatasi berbagai masalah kesehatan. \r\n\r\n', '2023-11-08 21:58:58'),
-(6, 'Sayur Indonesia', 'Menawarkan perpaduan unik antara rasa dan tekstur yang mencerminkan keragaman budaya dan pertanian negara ini. \r\n\r\n', '2023-11-07 07:55:28');
+(1, 'Masakan Indonesia', 'Pilih dari beragam makanan lezat kami.', '2023-11-10 18:16:28'),
+(2, 'Minuman Indonesia', 'Pilih minuman favorit Anda!', '2023-11-09 18:17:14'),
+(3, 'Sambal Indonesia', 'Pilih dari beragam sambal lezat kami.', '2023-11-10 18:17:43'),
+(4, 'Jajanan Indonesia', 'Menawarkan beragam pilihan untuk eksplorasi kuliner.', '2023-11-10 18:19:10'),
+(5, 'Jamu Tradisional', 'Kombinasi berbagai bahan alami untuk mengatasi masalah kesehatan.', '2023-11-08 21:58:58'),
+(6, 'Sayur Indonesia', 'Pilih dari beragam sayuran lezat kami.', '2023-11-07 07:55:28');
 
 -- --------------------------------------------------------
 
